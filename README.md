@@ -1,2 +1,2 @@
-# samit-pal.github.io
-My Website
+# My Website
+[samit-pal.gitlab.io](https://samit-pal.gitlab.io/)
